@@ -17,7 +17,9 @@ My name is Igor Wessel da Silva. I work as a Desenvolvedor Frontend Jr at Ninewo
 
 <a href="https://github.com/igorwessel/igorwessel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorwessel&theme=dark&langs_count=3&layout=compact&count_private=true" />
-</a><a href="https://github.com/igorwessel/igorwessel">
+</a>
+
+<a href="https://github.com/igorwessel/igorwessel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=igorwessel&theme=dark&count_private=true&show_icons=true" />
 </a>
 
