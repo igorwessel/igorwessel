@@ -1,7 +1,7 @@
 <h1>
 Hello World ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1> 
 
-My name is Igor Wessel da Silva. I work as a Desenvolvedor Frontend Jr at Nineworphi.
+My name is Igor Wessel da Silva. I work as a Desenvolvedor Frontend at Nineworphi.
 
 
 ## 🛠 Languages & Tools  
