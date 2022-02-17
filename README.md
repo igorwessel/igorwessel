@@ -47,4 +47,4 @@ Oi! Sou o Igor <img src="https://emojis.slackmojis.com/emojis/images/1531849430/
 
 - Curto jogar CS-GO
 - Dar um role de skate
-- Ir no cinema, não sou um cinéfilo mas é auma das minhas atividades favoritas.
+- Ir no cinema, não sou um cinéfilo mas é uma das minhas atividades favoritas.
