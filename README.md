@@ -45,5 +45,6 @@ Oi! Sou o Igor <img src="https://emojis.slackmojis.com/emojis/images/1531849430/
 
 ## 🚀 Quando não estou desenvolvendo
 
-- Curto jogar alguns jogos competitivos
+- Curto jogar CS-GO
 - Dar um role de skate
+- Ir no cinema, não sou um cinéfilo mas é auma das minhas atividades favoritas.
