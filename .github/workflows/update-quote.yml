@@ -11,6 +11,10 @@ jobs:
       env: # Or as an environment variable
         SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
       steps:
+        - name: Checkout Master
+          uses: actions/checkout@v4.1.1
+          with:          
+            persist-credentials: false
         - name: Setup Bun
           uses: oven-sh/setup-bun@v1
           with:
