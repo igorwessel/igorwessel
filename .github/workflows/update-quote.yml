@@ -1,0 +1,23 @@
+name: Update Quote
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "0 1 * * *"
+jobs:
+  build-and-deploy:
+      runs-on: ubuntu-latest
+      env: # Or as an environment variable
+        SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+      steps:
+        - name: Setup Bun
+          uses: oven-sh/setup-bun@v1
+          with:
+            # The version of Bun to install. (e.g. "latest", "canary", "1.0.0", "1.0.x", <sha>)
+            bun-version: latest
+        - name: Install and Build 🔧
+          run: |
+            bun install
+            bun start
+          
