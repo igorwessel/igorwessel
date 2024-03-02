@@ -13,8 +13,6 @@ jobs:
       steps:
         - name: Checkout Master
           uses: actions/checkout@v4.1.1
-          with:          
-            persist-credentials: false
         - name: Setup Bun
           uses: oven-sh/setup-bun@v1
           with:
