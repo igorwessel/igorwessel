@@ -23,5 +23,5 @@ jobs:
         - name: Install and Build 🔧
           run: |
             bun install
-            bun start
+            bun index.ts
           
