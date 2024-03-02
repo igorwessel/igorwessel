@@ -24,4 +24,8 @@ jobs:
           run: |
             bun install
             bun index.ts
+        - name: Update Readme.MD and Quotes
+          uses: EndBug/add-and-commit@v9.1.4
+          with:
+            message: "update readme.md and quotes.json"
           
