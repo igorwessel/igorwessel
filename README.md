@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Henry_David_Thoreau" title="Henry David Thoreau - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Benjamin_D._Maxham_-_Henry_David_Thoreau_-_Restored_-_greyscale_-_straightened.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/William_Faulkner" title="William Faulkner - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Carl_Van_Vechten_-_William_Faulkner.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;If we will be quiet and ready enough, we shall find compensation in every disappointment.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>
+  <blockquote>&ldquo;Unless you're ashamed of yourself now and then, you're not honest.&rdquo; &mdash; <footer>William Faulkner</footer></blockquote>
 </div>
   
