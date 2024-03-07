@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Steve_Harvey" title="Steve Harvey - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/1/16/SteveHarveyHWOFMay2013_%28cropped%29.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Tony_Robbins" title="Tony Robbins - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Tony_Robbins.jpg/640px-Tony_Robbins.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Everybody by your side ain't on your side.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+  <blockquote>&ldquo;The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 </div>
   
