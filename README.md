@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Michael_Jordan" title="Michael Jordan - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Michael_Jordan_in_2014.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Toni_Morrison" title="Toni Morrison - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Toni_Morrison.jpg/1200px-Toni_Morrison.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Some people want it to happen, some wish it would happen, others make it happen.&rdquo; &mdash; <footer>Michael Jordan</footer></blockquote>
+  <blockquote>&ldquo;If you can't imagine it, you can't have it.&rdquo; &mdash; <footer>Toni Morrison</footer></blockquote>
 </div>
   
