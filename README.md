@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="undefined" title="undefined"><img src="undefined" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Eleanor_Roosevelt" title="Eleanor Roosevelt - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eleanor_Roosevelt_portrait_1933.jpg/640px-Eleanor_Roosevelt_portrait_1933.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Leadership starts at the top.&rdquo; &mdash; <footer>Morgan Wootten</footer></blockquote>
+  <blockquote>&ldquo;You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 </div>
   
