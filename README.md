@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Gurbaksh_Chahal" title="Gurbaksh Chahal - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Gurbaksh_Chahal.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/William_James" title="William James - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/William_James_b1842c.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for.&rdquo; &mdash; <footer>Gurbaksh Chahal</footer></blockquote>
+  <blockquote>&ldquo;Act as if what you do makes a difference. It does.&rdquo; &mdash; <footer>William James</footer></blockquote>
 </div>
   
