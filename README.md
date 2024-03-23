@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/William_James" title="William James - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/William_James_b1842c.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Helen_Keller" title="Helen Keller - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Helen_Keller_circa_1920_-_restored.jpg/1200px-Helen_Keller_circa_1920_-_restored.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Act as if what you do makes a difference. It does.&rdquo; &mdash; <footer>William James</footer></blockquote>
+  <blockquote>&ldquo;Your success and happiness lie in you.&rdquo; &mdash; <footer>Helen Keller</footer></blockquote>
 </div>
   
