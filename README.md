@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Maxime_Lagac%C3%A9" title="Maxime Lagacé - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Maxime_Lagac%C3%A9_%28cropped%29.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Aristotle" title="Aristotle - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/640px-Aristotle_Altemps_Inv8575.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
+  <blockquote>&ldquo;We become brave by doing brave acts.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 </div>
   
