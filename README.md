@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Bette_Midler" title="Bette Midler - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bette_Midler_2021_Kennedy_Center_Honors_%28cropped%29.jpg/1200px-Bette_Midler_2021_Kennedy_Center_Honors_%28cropped%29.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Ray_Bradbury" title="Ray Bradbury - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Ray_Bradbury_1959.JPG" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Cherish forever what makes you unique, cuz you're really a yawn if it goes.&rdquo; &mdash; <footer>Bette Midler</footer></blockquote>
+  <blockquote>&ldquo;Believe in one thing too much and you have no room for new ideas.  &rdquo; &mdash; <footer>Ray Bradbury</footer></blockquote>
 </div>
   
