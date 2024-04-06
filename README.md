@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Ray_Bradbury" title="Ray Bradbury - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Ray_Bradbury_1959.JPG" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Albert_Einstein" title="Albert Einstein - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Believe in one thing too much and you have no room for new ideas.  &rdquo; &mdash; <footer>Ray Bradbury</footer></blockquote>
+  <blockquote>&ldquo;The person who never made a mistake never tried anything new.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
 </div>
   
