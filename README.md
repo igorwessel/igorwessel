@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Norman_Vincent_Peale" title="Norman Vincent Peale - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Norman_Vincent_Peale_NYWTS.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/File:Spencer_Johnson_Bowling_for_South_Australia.jpg" title="File:Spencer Johnson Bowling for South ..."><img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Spencer_Johnson_Bowling_for_South_Australia.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;The trouble with most of us is that we'd rather be ruined by praise than saved by criticism.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+  <blockquote>&ldquo;In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 </div>
   
