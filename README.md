@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Amelia_Earhart" title="Amelia Earhart - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra%2C_small.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/A._A._Milne" title="A. A. Milne - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Milne-Shadowland-1922.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Courage is the price that life exacts for granting peace.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
+  <blockquote>&ldquo;You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.&rdquo; &mdash; <footer>A.A. Milne</footer></blockquote>
 </div>
   
