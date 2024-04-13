@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Aristotle" title="Aristotle - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/640px-Aristotle_Altemps_Inv8575.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Steve_Harvey" title="Steve Harvey - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/1/16/SteveHarveyHWOFMay2013_%28cropped%29.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;He who cannot be a good follower cannot be a good leader.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+  <blockquote>&ldquo;Growth is in a series of mistakes. That's the only way you learn.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 </div>
   
