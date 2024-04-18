@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Pema_Ch%C3%B6dr%C3%B6n" title="Pema Chödrön - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Pema_chodron_2007_cropped.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Samuel_Beckett" title="Samuel Beckett - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Samuel_Beckett%2C_Pic%2C_1_%28cropped%29.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
+  <blockquote>&ldquo;Words are the clothes thoughts wear.&rdquo; &mdash; <footer>Samuel Beckett</footer></blockquote>
 </div>
   
