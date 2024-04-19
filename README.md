@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Samuel_Beckett" title="Samuel Beckett - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Samuel_Beckett%2C_Pic%2C_1_%28cropped%29.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Wikiquote:Chinese_proverbs" title="Chinese proverbs - Wikiquote"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/China_Jinan_Door_5196943.jpg/800px-China_Jinan_Door_5196943.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Words are the clothes thoughts wear.&rdquo; &mdash; <footer>Samuel Beckett</footer></blockquote>
+  <blockquote>&ldquo;Distant water does not put out a nearby fire.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 </div>
   
