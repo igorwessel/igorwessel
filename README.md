@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Charles_Dickens" title="Charles Dickens - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Dickens_Gurney_head.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/D%C5%8Dgen" title="Dōgen - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Soto-Zen-Master-Dogen-Zenji-Portrait.png" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
+  <blockquote>&ldquo;Do not follow the ideas of others, but learn to listen to the voice within yourself.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
 </div>
   
