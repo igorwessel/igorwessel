@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Robert_Frost" title="Robert Frost - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robert_Frost_NYWTS_4.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Mark_Manson" title="Mark Manson - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Mark-manson-headshot-2018-1.jpg/640px-Mark-manson-headshot-2018-1.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.&rdquo; &mdash; <footer>Robert Frost</footer></blockquote>
+  <blockquote>&ldquo;Who you are is defined by what you're willing to struggle for.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
 </div>
   
