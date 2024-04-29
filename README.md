@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Mae_West" title="Mae West - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Mae_West_LAT.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Robert_T._Bennett" title="Robert T. Bennett - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Robert_T._Bennett.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Anything worth doing is worth doing slowly.&rdquo; &mdash; <footer>Mae West</footer></blockquote>
+  <blockquote>&ldquo;Make improvements, not excuses. Seek respect, not attention.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 </div>
   
