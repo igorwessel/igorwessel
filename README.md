@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/George_Eliot" title="George Eliot - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/George_Eliot%2C_por_Fran%C3%A7ois_D%27Albert_Durade.jpg/800px-George_Eliot%2C_por_Fran%C3%A7ois_D%27Albert_Durade.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Thomas_Jefferson" title="Thomas Jefferson - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29%28cropped%29.jpg/640px-Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29%28cropped%29.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;One must be poor to know the luxury of giving.&rdquo; &mdash; <footer>George Eliot</footer></blockquote>
+  <blockquote>&ldquo;Never put off to tomorrow what you can do to-day.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
 </div>
   
