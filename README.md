@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Naval_Ravikant" title="Naval Ravikant - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Naval_Ravikant.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Virginia_Woolf" title="Virginia Woolf - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/George_Charles_Beresford_-_Virginia_Woolf_in_1902_-_Restoration.jpg/1200px-George_Charles_Beresford_-_Virginia_Woolf_in_1902_-_Restoration.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;You make your own luck if you stay at it long enough.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+  <blockquote>&ldquo;You cannot find peace by avoiding life.&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
 </div>
   
