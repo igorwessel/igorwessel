@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Bhagavad_Gita" title="Bhagavad Gita - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/BhagavadGita-19th-century-Illustrated-Sanskrit-Chapter_1.20.21.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Norman_D._Vaughan" title="Norman D. Vaughan - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/With_byrd_at_the_south_pole_1930_poster.jpg/170px-With_byrd_at_the_south_pole_1930_poster.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Desire for the fruits of work must never be your motive in working.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
+  <blockquote>&ldquo;Dream big and dare to fail.&rdquo; &mdash; <footer>Norman Vaughan</footer></blockquote>
 </div>
   
