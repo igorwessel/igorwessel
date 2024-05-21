@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Sigmund_Freud" title="Sigmund Freud - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Charles_Darwin" title="Charles Darwin - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Charles_Darwin_seated_crop.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.&rdquo; &mdash; <footer>Sigmund Freud</footer></blockquote>
+  <blockquote>&ldquo;If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.&rdquo; &mdash; <footer>Charles Darwin</footer></blockquote>
 </div>
   
