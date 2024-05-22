@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Charles_Darwin" title="Charles Darwin - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Charles_Darwin_seated_crop.jpg" width="600px"></a>
+  <a href="undefined" title="undefined"><img src="undefined" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin.&rdquo; &mdash; <footer>Charles Darwin</footer></blockquote>
+  <blockquote>&ldquo;In order for you to be the BEST you can be for others, first you must be BEST for yourself.&rdquo; &mdash; <footer>Jeffrey Gitomer</footer></blockquote>
 </div>
   
