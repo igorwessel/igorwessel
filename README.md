@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="undefined" title="undefined"><img src="undefined" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh" title="Thích Nhất Hạnh - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Thich_Nhat_Hanh_12_%28cropped%29.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
+  <blockquote>&ldquo;The way out is in.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
 </div>
   
