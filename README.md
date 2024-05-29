@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/John_Lennon" title="John Lennon - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/d/db/John_Lennon%2C_1974_%28restored_cropped%29.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Gary_W._Keller" title="Gary W. Keller - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/GaryKellerTeaching1.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;You don't need anybody to tell you who you are or what you are. You are what you are!&rdquo; &mdash; <footer>John Lennon</footer></blockquote>
+  <blockquote>&ldquo;People do not decide their futures, they decide their habits and their habits decide their futures.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote>
 </div>
   
