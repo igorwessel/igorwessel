@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Hedley_Marston" title="Hedley Marston - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/CSIRO_ScienceImage_1871_Hedley_Marston_19001965.jpg/800px-CSIRO_ScienceImage_1871_Hedley_Marston_19001965.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Coco_Chanel" title="Coco Chanel - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Coco_Chanel_in_Los_Angeles%2C_1931_%28cropped%29.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Success in any endeavor depends on the degree to which it is an expression of your true self. &rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
+  <blockquote>&ldquo;Fashion fades, only style remains the same.&rdquo; &mdash; <footer>Coco Chanel</footer></blockquote>
 </div>
   
