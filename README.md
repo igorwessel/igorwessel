@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Gabor_Mat%C3%A9" title="Gabor Maté - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Gabor_Mat%C3%A9_-_01_%28cropped%29.jpeg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Chris_McCandless" title="Chris McCandless - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/en/6/6d/Chris_McCandless.png" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Passion creates, addiction consumes.&rdquo; &mdash; <footer>Gabor Mate</footer></blockquote>
+  <blockquote>&ldquo;When you want something in life, you just gotta reach out and grab it.&rdquo; &mdash; <footer>Christopher McCandless</footer></blockquote>
 </div>
   
