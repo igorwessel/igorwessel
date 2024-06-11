@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac" title="Honoré de Balzac - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Honor%C3%A9_de_Balzac_%281842%29_Detail.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Martin_Luther_King_Jr." title="Martin Luther King Jr. - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Martin_Luther_King%2C_Jr..jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;The more one judges, the less one loves.&rdquo; &mdash; <footer>Honore de Balzac</footer></blockquote>
+  <blockquote>&ldquo;We must accept finite disappointment, but never lose infinite hope.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
 </div>
   
