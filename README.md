@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Martin_Luther_King_Jr." title="Martin Luther King Jr. - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Martin_Luther_King%2C_Jr..jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Sun_Tzu" title="Sun Tzu - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/%E5%90%B4%E5%8F%B8%E9%A9%AC%E5%AD%99%E6%AD%A6.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;We must accept finite disappointment, but never lose infinite hope.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
+  <blockquote>&ldquo;A leader leads by example, not by force.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
 </div>
   
