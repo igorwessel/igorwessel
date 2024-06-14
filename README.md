@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Les_Brown_(politician)" title="Les Brown (politician) - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Les_Brown_speaking.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Kenneth_Branagh" title="Kenneth Branagh - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Kenneth_Branagh_at_diff_2015.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;You are never too old to set another goal or to dream a new dream.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+  <blockquote>&ldquo;It's very strange that the people you love are often the people you're most cruel to.&rdquo; &mdash; <footer>Kenneth Branagh</footer></blockquote>
 </div>
   
