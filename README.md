@@ -6,6 +6,6 @@
   <a href="undefined" title="undefined"><img src="undefined" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Real growth comes through intense, difficult, and challenging situations.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
+  <blockquote>&ldquo;A fear of weakness only strengthens weakness.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
 </div>
   
