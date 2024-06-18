@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Mark_Twain" title="Mark Twain - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mark_Twain_by_AF_Bradley.jpg/640px-Mark_Twain_by_AF_Bradley.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Wayne_Dyer" title="Wayne Dyer - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/WayneDyerByPhilKonstantin.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;The two most important days in your life are the day you are born and the day you find out why.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
+  <blockquote>&ldquo;Doing what you love is the cornerstone of having abundance in your life. &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
 </div>
   
