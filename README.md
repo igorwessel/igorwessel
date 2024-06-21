@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="undefined" title="undefined"><img src="undefined" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Peter_Drucker" title="Peter Drucker - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Drucker5789.jpg/1200px-Drucker5789.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Confidence comes from crossing thresholds.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
+  <blockquote>&ldquo;Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
 </div>
   
