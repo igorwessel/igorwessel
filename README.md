@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Peter_Drucker" title="Peter Drucker - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Drucker5789.jpg/1200px-Drucker5789.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/John_D._Rockefeller" title="John D. Rockefeller - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Portrait_of_J._D._Rockefeller.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
+  <blockquote>&ldquo;I can think of nothing less pleasurable than a life devoted to pleasure.&rdquo; &mdash; <footer>John D. Rockefeller</footer></blockquote>
 </div>
   
