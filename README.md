@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/John_D._Rockefeller" title="John D. Rockefeller - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Portrait_of_J._D._Rockefeller.jpg" width="600px"></a>
+  <a href="https://en.m.wikipedia.org/wiki/File:Unknown_person.jpg" title="File:Unknown person.jpg - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unknown_person.jpg/925px-Unknown_person.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;I can think of nothing less pleasurable than a life devoted to pleasure.&rdquo; &mdash; <footer>John D. Rockefeller</footer></blockquote>
+  <blockquote>&ldquo;You are not what you think you are, You are not what others think you are, You are what you think others think you are.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 </div>
   
