@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Rumi" title="Rumi - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/%D9%85%D9%88%D9%84%D8%A7%D9%86%D8%A7_%D8%A7%D8%AB%D8%B1_%D8%AD%D8%B3%DB%8C%D9%86_%D8%A8%D9%87%D8%B2%D8%A7%D8%AF_%28cropped%29.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Nelson_Mandela" title="Nelson Mandela - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nelson_Mandela_1994.jpg/1200px-Nelson_Mandela_1994.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Remember the entrance to the sanctuary is inside you.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
+  <blockquote>&ldquo;Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.&rdquo; &mdash; <footer>Nelson Mandela</footer></blockquote>
 </div>
   
