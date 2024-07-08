@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Christopher_Reeve" title="Christopher Reeve - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/C_Reeve_in_Marriage_of_Figaro_Opening_night_1985.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Abraham_Lincoln" title="Abraham Lincoln - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/1200px-Abraham_Lincoln_O-77_matte_collodion_print.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;At first dreams seem impossible, then improbable, then inevitable.&rdquo; &mdash; <footer>Christopher Reeve</footer></blockquote>
+  <blockquote>&ldquo;Things may come to those who wait, but only the things left by those who hustle.&rdquo; &mdash; <footer>Abraham Lincoln</footer></blockquote>
 </div>
   
