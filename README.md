@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Gary_W._Keller" title="Gary W. Keller - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/GaryKellerTeaching1.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/D%C5%8Dgen" title="Dōgen - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Soto-Zen-Master-Dogen-Zenji-Portrait.png" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;The majority of what you want will come from the minority of what you do.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote>
+  <blockquote>&ldquo;A flower falls, even though we love it; and a weed grows, even though we do not love it.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
 </div>
   
