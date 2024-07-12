@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/D%C5%8Dgen" title="Dōgen - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Soto-Zen-Master-Dogen-Zenji-Portrait.png" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Lily_Tomlin" title="Lily Tomlin - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lily_Tomlin_in_2014.jpg/640px-Lily_Tomlin_in_2014.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;A flower falls, even though we love it; and a weed grows, even though we do not love it.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
+  <blockquote>&ldquo;Man invented language to satisfy his deep need to complain.&rdquo; &mdash; <footer>Lily Tomlin</footer></blockquote>
 </div>
   
