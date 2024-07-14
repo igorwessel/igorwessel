@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Stephen_Hawking" title="Stephen Hawking - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Stephen_Hawking.StarChild.jpg/220px-Stephen_Hawking.StarChild.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Walt_Whitman" title="Walt Whitman - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Walt_Whitman_-_George_Collins_Cox.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;The thing about smart people is that they seem like crazy people to dumb people.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
+  <blockquote>&ldquo;The truth is simple. If it was complicated, everyone would understand it.&rdquo; &mdash; <footer>Walt Whitman</footer></blockquote>
 </div>
   
