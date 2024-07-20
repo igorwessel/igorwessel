@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Robert_T._Bennett" title="Robert T. Bennett - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Robert_T._Bennett.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/John_Eliot_(missionary)" title="John Eliot (missionary) - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Portrait_of_John_Eliot.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+  <blockquote>&ldquo;Perfectionism is simply putting a limit on your future.&rdquo; &mdash; <footer>John Eliot</footer></blockquote>
 </div>
   
