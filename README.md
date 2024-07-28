@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Robin_Williams" title="Robin Williams - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Robin_Williams_1978_%28cropped%29.jpg/640px-Robin_Williams_1978_%28cropped%29.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Conrad_Hilton" title="Conrad Hilton - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Conrad_Hilton_%28croped%29.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;The world is open for play, everything and everybody is mockable in a wonderful way.&rdquo; &mdash; <footer>Robin Williams</footer></blockquote>
+  <blockquote>&ldquo;Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit.&rdquo; &mdash; <footer>Conrad Hilton</footer></blockquote>
 </div>
   
