@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Gary_W._Keller" title="Gary W. Keller - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/GaryKellerTeaching1.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Jim_Rohn" title="Jim Rohn - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Jim_rohn.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Life is a question and how we live it is our answer.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote>
+  <blockquote>&ldquo;The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 </div>
   
