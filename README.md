@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Steve_Jobs" title="Steve Jobs - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Adi_Da" title="Adi Da - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/en/5/57/AvatarAdiDaSamraj2008.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time.&rdquo; &mdash; <footer>Steve Jobs</footer></blockquote>
+  <blockquote>&ldquo;Relax. Nothing is under control.&rdquo; &mdash; <footer>Adi Da Samraj</footer></blockquote>
 </div>
   
