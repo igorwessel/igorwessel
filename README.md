@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Carlos_Ruiz_Zaf%C3%B3n" title="Carlos Ruiz Zafón - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Carlos_Ruiz_Zaf%C3%B3n_-_002.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/T._S._Eliot" title="T. S. Eliot - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Thomas_Stearns_Eliot_by_Lady_Ottoline_Morrell_%281934%29.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;There are few reasons for telling the truth, but for lying the number is infinite.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
+  <blockquote>&ldquo;To become what you are not, behave as you do not.&rdquo; &mdash; <footer>T.S. Eliot</footer></blockquote>
 </div>
   
