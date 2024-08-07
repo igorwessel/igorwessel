@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/T._S._Eliot" title="T. S. Eliot - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Thomas_Stearns_Eliot_by_Lady_Ottoline_Morrell_%281934%29.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/John_Lennon" title="John Lennon - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/John_Lennon%2C_1974_%28restored_cropped%29.jpg/220px-John_Lennon%2C_1974_%28restored_cropped%29.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;To become what you are not, behave as you do not.&rdquo; &mdash; <footer>T.S. Eliot</footer></blockquote>
+  <blockquote>&ldquo;Life is what happens to you while you're busy making other plans.&rdquo; &mdash; <footer>John Lennon</footer></blockquote>
 </div>
   
