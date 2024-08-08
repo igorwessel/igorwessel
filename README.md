@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/John_Lennon" title="John Lennon - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/John_Lennon%2C_1974_%28restored_cropped%29.jpg/220px-John_Lennon%2C_1974_%28restored_cropped%29.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Oprah_Winfrey" title="Oprah Winfrey - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pre_Inaugural_Reception_%2852639556983%29_%28cropped%29.jpg/640px-Pre_Inaugural_Reception_%2852639556983%29_%28cropped%29.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Life is what happens to you while you're busy making other plans.&rdquo; &mdash; <footer>John Lennon</footer></blockquote>
+  <blockquote>&ldquo;Surround yourself only with people who are going to take you higher.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
 </div>
   
