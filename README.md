@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Conrad_Hilton" title="Conrad Hilton - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Conrad_Hilton_%28croped%29.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Maya_Angelou" title="Maya Angelou - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Calypso_Heat_Wave_%281957%29_press_photo_of_Maya_Angelou.jpg/220px-Calypso_Heat_Wave_%281957%29_press_photo_of_Maya_Angelou.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit.&rdquo; &mdash; <footer>Conrad Hilton</footer></blockquote>
+  <blockquote>&ldquo;If you have only one smile in you give it to the people you love.&rdquo; &mdash; <footer>Maya Angelou</footer></blockquote>
 </div>
   
