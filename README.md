@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Walt_Whitman" title="Walt Whitman - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Walt_Whitman_-_George_Collins_Cox.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Bhagavad_Gita" title="Bhagavad Gita - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/BhagavadGita-19th-century-Illustrated-Sanskrit-Chapter_1.20.21.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;The strongest and sweetest songs yet remain to be sung.&rdquo; &mdash; <footer>Walt Whitman</footer></blockquote>
+  <blockquote>&ldquo;Through selfless service, you will always be fruitful and find the fulfillment of your desires.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
 </div>
   
