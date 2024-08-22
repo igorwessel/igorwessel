@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Bhagavad_Gita" title="Bhagavad Gita - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/BhagavadGita-19th-century-Illustrated-Sanskrit-Chapter_1.20.21.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Robert_T._Bennett" title="Robert T. Bennett - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Robert_T._Bennett.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Through selfless service, you will always be fruitful and find the fulfillment of your desires.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
+  <blockquote>&ldquo;Start each day with a positive thought and a grateful heart.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 </div>
   
