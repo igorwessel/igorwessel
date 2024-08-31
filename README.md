@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://simple.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho - Simple English Wikipedia ..."><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Paulo_Coelho_nrkbeta.jpg" width="600px"></a>
+  <a href="undefined" title="undefined"><img src="undefined" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;The danger of an adventure is worth a thousand days of ease and comfort.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
+  <blockquote>&ldquo;You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
 </div>
   
