@@ -6,6 +6,6 @@
   <a href="undefined" title="undefined"><img src="undefined" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
+  <blockquote>&ldquo;Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 </div>
   
