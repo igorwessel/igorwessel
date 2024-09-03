@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Sigmund_Freud" title="Sigmund Freud - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg/1200px-Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Oscar_Wilde" title="Oscar Wilde - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated.jpg/1200px-Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Out of your vulnerabilities will come your strength.&rdquo; &mdash; <footer>Sigmund Freud</footer></blockquote>
+  <blockquote>&ldquo;The final mystery is oneself.&rdquo; &mdash; <footer>Oscar Wilde</footer></blockquote>
 </div>
   
