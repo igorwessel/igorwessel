@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/John_Lennon" title="John Lennon - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/d/db/John_Lennon%2C_1974_%28restored_cropped%29.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Tony_Robbins" title="Tony Robbins - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Tony_Robbins.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;You don't need anybody to tell you who you are or what you are. You are what you are!&rdquo; &mdash; <footer>John Lennon</footer></blockquote>
+  <blockquote>&ldquo;Most people fail in life because they major in minor things.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 </div>
   
