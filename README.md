@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Nikola_Tesla" title="Nikola Tesla - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Tesla_circa_1890.jpeg/800px-Tesla_circa_1890.jpeg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Nicolas_Chamfort" title="Nicolas Chamfort - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nicolas_Chamfort.jpg/1200px-Nicolas_Chamfort.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences &rdquo; &mdash; <footer>Nikola Tesla</footer></blockquote>
+  <blockquote>&ldquo;Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>
 </div>
   
