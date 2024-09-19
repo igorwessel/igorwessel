@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Nicolas_Chamfort" title="Nicolas Chamfort - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nicolas_Chamfort.jpg/1200px-Nicolas_Chamfort.jpg" width="600px"></a>
+  <a href="https://en.m.wikipedia.org/wiki/File:Unknown_person.jpg" title="File:Unknown person.jpg - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Unknown_person.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>
+  <blockquote>&ldquo;Be brave enough to suck at something new.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 </div>
   
