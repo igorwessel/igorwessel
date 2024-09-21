@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Henry_David_Thoreau" title="Henry David Thoreau - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Benjamin_D._Maxham_-_Henry_David_Thoreau_-_Restored_-_greyscale_-_straightened.jpg/1200px-Benjamin_D._Maxham_-_Henry_David_Thoreau_-_Restored_-_greyscale_-_straightened.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/D%C5%8Dgen" title="Dōgen - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Soto-Zen-Master-Dogen-Zenji-Portrait.png" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Our truest life is when we are in dreams awake.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>
+  <blockquote>&ldquo;A flower falls, even though we love it; and a weed grows, even though we do not love it.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
 </div>
   
