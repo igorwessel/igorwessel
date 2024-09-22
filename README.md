@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/D%C5%8Dgen" title="Dōgen - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Soto-Zen-Master-Dogen-Zenji-Portrait.png" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/John_D._Rockefeller" title="John D. Rockefeller - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Portrait_of_J._D._Rockefeller.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;A flower falls, even though we love it; and a weed grows, even though we do not love it.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
+  <blockquote>&ldquo;Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding.&rdquo; &mdash; <footer>John D. Rockefeller</footer></blockquote>
 </div>
   
