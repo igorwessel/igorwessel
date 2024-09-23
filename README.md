@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/John_D._Rockefeller" title="John D. Rockefeller - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Portrait_of_J._D._Rockefeller.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Spencer_Johnson_(American_football)" title="Spencer Johnson (American football ..."><img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Spencer_Johnson_%28American_football%29.JPG" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding.&rdquo; &mdash; <footer>John D. Rockefeller</footer></blockquote>
+  <blockquote>&ldquo;It is safer to search in the maze than to remain in a cheeseless situation.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 </div>
   
