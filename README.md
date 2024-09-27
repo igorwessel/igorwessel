@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Deepak_Chopra" title="Deepak Chopra - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Deepak_Chopra_by_Gage_Skidmore.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Alexander_Pope" title="Alexander Pope - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Alexander_Pope_by_Michael_Dahl.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;People are doing the best that they can from their own level of consciousness.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
+  <blockquote>&ldquo;Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found.&rdquo; &mdash; <footer>Alexander Pope</footer></blockquote>
 </div>
   
