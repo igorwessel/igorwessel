@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="undefined" title="undefined"><img src="undefined" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Andrew_Carnegie" title="Andrew Carnegie - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Andrew_Carnegie%2C_by_Theodore_Marceau.jpg/1200px-Andrew_Carnegie%2C_by_Theodore_Marceau.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Real growth comes through intense, difficult, and challenging situations.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
+  <blockquote>&ldquo;The first man gets the oyster, the second man gets the shell.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
 </div>
   
