@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Richard_Bach" title="Richard Bach - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Von_Richthofen_LYNN_GARRISON_-_DICK_BACH.jpg/220px-Von_Richthofen_LYNN_GARRISON_-_DICK_BACH.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/D%C5%8Dgen" title="Dōgen - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Soto-Zen-Master-Dogen-Zenji-Portrait.png" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;If your happiness depends on what somebody else does, I guess you do have a problem.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
+  <blockquote>&ldquo;Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
 </div>
   
