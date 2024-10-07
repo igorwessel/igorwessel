@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Aristotle" title="Aristotle - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/640px-Aristotle_Altemps_Inv8575.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Betty_White" title="Betty White - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Betty_White_1988_Emmy_Awards_%28cropped_2%29.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;The educated differ from the uneducated as much as the living differ from the dead.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+  <blockquote>&ldquo;Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.&rdquo; &mdash; <footer>Betty White</footer></blockquote>
 </div>
   
