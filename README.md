@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Saint_Jerome_Writing" title="Saint Jerome Writing - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Saint_Jerome_Writing-Caravaggio_%281605-6%29.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson" title="Ralph Waldo Emerson - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ralph_Waldo_Emerson_by_Josiah_Johnson_Hawes_1857.jpg/640px-Ralph_Waldo_Emerson_by_Josiah_Johnson_Hawes_1857.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Begin now to be what you will be hereafter.&rdquo; &mdash; <footer>St. Jerome</footer></blockquote>
+  <blockquote>&ldquo;To know even one life has breathed easier because you have lived. This is to have succeeded.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>
 </div>
   
