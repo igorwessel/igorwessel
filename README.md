@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Genghis_Khan" title="Genghis Khan - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Emperoryuandinastycollage.jpg/280px-Emperoryuandinastycollage.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Eleanor_Roosevelt" title="Eleanor Roosevelt - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eleanor_Roosevelt_portrait_1933.jpg/800px-Eleanor_Roosevelt_portrait_1933.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;There is no value in anything until it is finished. &rdquo; &mdash; <footer>Genghis Khan</footer></blockquote>
+  <blockquote>&ldquo;With the new day comes new strength and new thoughts.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 </div>
   
