@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Eleanor_Roosevelt" title="Eleanor Roosevelt - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eleanor_Roosevelt_portrait_1933.jpg/800px-Eleanor_Roosevelt_portrait_1933.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/D%C5%8Dgen" title="Dōgen - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Soto-Zen-Master-Dogen-Zenji-Portrait.png" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;With the new day comes new strength and new thoughts.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+  <blockquote>&ldquo;One must be deeply aware of the impermanence of the world.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
 </div>
   
