@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Sigmund_Freud" title="Sigmund Freud - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Yanni" title="Yanni - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/YanniPressPhoto.jpg/800px-YanniPressPhoto.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;He who knows how to wait need make no concessions.&rdquo; &mdash; <footer>Sigmund Freud</footer></blockquote>
+  <blockquote>&ldquo;All you need is passion. If you have a passion for something, you'll create the talent.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
 </div>
   
