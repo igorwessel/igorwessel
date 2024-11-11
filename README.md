@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Bruce_Lee" title="Bruce Lee - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Bruce-Lee-as-Kato-1967-retouched.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Bob_Dylan" title="Bob Dylan - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;We can see through others only when we can see through ourselves.&rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
+  <blockquote>&ldquo;If you want to keep your memories, you first have to live them.&rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>
 </div>
   
