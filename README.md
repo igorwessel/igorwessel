@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Bob_Dylan" title="Bob Dylan - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/George_Eliot" title="George Eliot - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/George_Eliot%2C_por_Fran%C3%A7ois_D%27Albert_Durade.jpg/1200px-George_Eliot%2C_por_Fran%C3%A7ois_D%27Albert_Durade.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;If you want to keep your memories, you first have to live them.&rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>
+  <blockquote>&ldquo;Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.&rdquo; &mdash; <footer>George Eliot</footer></blockquote>
 </div>
   
