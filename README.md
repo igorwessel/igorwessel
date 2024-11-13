@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/George_Eliot" title="George Eliot - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/George_Eliot%2C_por_Fran%C3%A7ois_D%27Albert_Durade.jpg/1200px-George_Eliot%2C_por_Fran%C3%A7ois_D%27Albert_Durade.jpg" width="600px"></a>
+  <a href="https://en.m.wikipedia.org/wiki/File:Zhang_Lu-Laozi_Riding_an_Ox.jpg" title="File:Zhang Lu-Laozi Riding an Ox.jpg ..."><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Zhang_Lu-Laozi_Riding_an_Ox.jpg/800px-Zhang_Lu-Laozi_Riding_an_Ox.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it.&rdquo; &mdash; <footer>George Eliot</footer></blockquote>
+  <blockquote>&ldquo;He who knows, does not speak. He who speaks, does not know.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 </div>
   
