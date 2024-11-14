@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.m.wikipedia.org/wiki/File:Zhang_Lu-Laozi_Riding_an_Ox.jpg" title="File:Zhang Lu-Laozi Riding an Ox.jpg ..."><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Zhang_Lu-Laozi_Riding_an_Ox.jpg/800px-Zhang_Lu-Laozi_Riding_an_Ox.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Roy_Bennett_(politician)" title="Roy Bennett (politician) - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Roy_Bennett_2011_%28cropped%29.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;He who knows, does not speak. He who speaks, does not know.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
+  <blockquote>&ldquo;Pursue what catches your heart, not what catches your eyes.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 </div>
   
