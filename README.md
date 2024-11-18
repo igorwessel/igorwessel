@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Paulo_Coelho" title="Paulo Coelho - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Paulo_Coelho%2C_June_2024.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Charles_Spurgeon" title="Charles Spurgeon - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Charles_Haddon_Spurgeon_by_Alexander_Melville.jpg/1200px-Charles_Haddon_Spurgeon_by_Alexander_Melville.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;When you repeat a mistake, it is not a mistake anymore: it is a decision.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
+  <blockquote>&ldquo;Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths.&rdquo; &mdash; <footer>Charles Spurgeon</footer></blockquote>
 </div>
   
