@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Charles_Spurgeon" title="Charles Spurgeon - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Charles_Haddon_Spurgeon_by_Alexander_Melville.jpg/1200px-Charles_Haddon_Spurgeon_by_Alexander_Melville.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Barack_Obama" title="Barack Obama - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/1200px-President_Barack_Obama.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths.&rdquo; &mdash; <footer>Charles Spurgeon</footer></blockquote>
+  <blockquote>&ldquo;If you run you stand a chance of losing, but if you don't run you've already lost.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
 </div>
   
