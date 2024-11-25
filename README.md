@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Beverly_Sills" title="Beverly Sills - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Beverly_Sills_in_%22Manon%22%2C_cropped.jpg/220px-Beverly_Sills_in_%22Manon%22%2C_cropped.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Og_Mandino" title="Og Mandino - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/en/b/b9/OgMandinoInspirationalwriter.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Anger begins with folly, and ends with repentance. &rdquo; &mdash; <footer>Beverly Sills</footer></blockquote>
+  <blockquote>&ldquo;Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
 </div>
   
