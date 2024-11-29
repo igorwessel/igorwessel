@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Charlie_Chaplin" title="Charlie Chaplin - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Charlie_Chaplin_portrait.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Stephen_King" title="Stephen King - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Stephen_King_at_the_2024_Toronto_International_Film_Festival_2_%28cropped%29.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Simplicity is a difficult thing to achieve.  &rdquo; &mdash; <footer>Charlie Chaplin</footer></blockquote>
+  <blockquote>&ldquo;Get busy living, or get busy dying.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
 </div>
   
