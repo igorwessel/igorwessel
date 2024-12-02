@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Martin_Luther_King_Jr." title="Martin Luther King Jr. - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/800px-Martin_Luther_King%2C_Jr..jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/The_Starry_Night" title="The Starry Night - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1200px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;There can be no deep disappointment where there is not deep love.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
+  <blockquote>&ldquo;Great things are not done by impulse, but by a series of small things brought together.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
 </div>
   
