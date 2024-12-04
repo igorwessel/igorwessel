@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Saint_Jerome_Writing" title="Saint Jerome Writing - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Saint_Jerome_Writing-Caravaggio_%281605-6%29.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Kahlil_Gibran" title="Kahlil Gibran - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Kahlil_Gibran_1913.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;True friendship ought never to conceal what it thinks. &rdquo; &mdash; <footer>St. Jerome</footer></blockquote>
+  <blockquote>&ldquo;You may forget with whom you laughed, but you will never forget with whom you wept.  &rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
 </div>
   
