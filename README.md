@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Kahlil_Gibran" title="Kahlil Gibran - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Kahlil_Gibran_1913.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Deepak_Chopra" title="Deepak Chopra - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Deepak_Chopra_by_Gage_Skidmore.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;You may forget with whom you laughed, but you will never forget with whom you wept.  &rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
+  <blockquote>&ldquo;People are doing the best that they can from their own level of consciousness.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 </div>
   
