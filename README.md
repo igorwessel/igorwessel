@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="undefined" title="undefined"><img src="undefined" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Virginia_Woolf" title="Virginia Woolf - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/George_Charles_Beresford_-_Virginia_Woolf_in_1902_-_Restoration.jpg/640px-George_Charles_Beresford_-_Virginia_Woolf_in_1902_-_Restoration.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Life's too mysterious to take too serious.&rdquo; &mdash; <footer>Mary Engelbreit</footer></blockquote>
+  <blockquote>&ldquo;When you consider things like the stars, our affairs don't seem to matter very much, do they?&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
 </div>
   
