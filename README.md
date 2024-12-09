@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Tony_Robbins" title="Tony Robbins - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Tony_Robbins.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Charles_Dickens" title="Charles Dickens - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dickens_Gurney_head.jpg/800px-Dickens_Gurney_head.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Most people fail in life because they major in minor things.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+  <blockquote>&ldquo;There is nothing in the world so irresistibly contagious as laughter and good humor.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
 </div>
   
