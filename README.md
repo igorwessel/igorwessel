@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/A._A._Milne" title="A. A. Milne - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Milne-Shadowland-1922.jpg/220px-Milne-Shadowland-1922.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Eric_Hoffer" title="Eric Hoffer - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Eric_Hoffer_in_LBJ_Oval_Office.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes.&rdquo; &mdash; <footer>A.A. Milne</footer></blockquote>
+  <blockquote>&ldquo;An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
 </div>
   
