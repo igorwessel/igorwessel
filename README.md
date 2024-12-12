@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Eric_Hoffer" title="Eric Hoffer - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Eric_Hoffer_in_LBJ_Oval_Office.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Robert_Kiyosaki" title="Robert Kiyosaki - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Robert_Kiyosaki_by_Gage_Skidmore_2.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
+  <blockquote>&ldquo;An intelligent person hires people who are more intelligent than he is.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
 </div>
   
