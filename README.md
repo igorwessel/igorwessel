@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Elon_Musk" title="Elon Musk - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Elon_Musk_Royal_Society_crop.jpg/1200px-Elon_Musk_Royal_Society_crop.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Oscar_Wilde" title="Oscar Wilde - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
+  <blockquote>&ldquo;Every saint has a past, and every sinner has a future.&rdquo; &mdash; <footer>Oscar Wilde</footer></blockquote>
 </div>
   
