@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Benjamin_Franklin" title="Benjamin Franklin - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Bob_Marley" title="Bob Marley - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Bob_Marley_1976_press_photo.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Lost Time is never found again.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
+  <blockquote>&ldquo;Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections.&rdquo; &mdash; <footer>Bob Marley</footer></blockquote>
 </div>
   
