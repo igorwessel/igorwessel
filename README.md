@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Pablo_Picasso" title="Pablo Picasso - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Portrait_de_Picasso%2C_1908_%28background_retouched%29.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Benjamin_Franklin" title="Benjamin Franklin - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Others have seen what is and asked why. I have seen what could be and asked why not&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
+  <blockquote>&ldquo;He that can have patience can have what he will.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
 </div>
   
