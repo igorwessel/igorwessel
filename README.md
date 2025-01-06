@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Dale_Carnegie" title="Dale Carnegie - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/en/0/0c/Dale_Carnegie.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Bob_Marley" title="Bob Marley - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Bob_Marley_1976_press_photo.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Do the hard jobs first. The easy jobs will take care of themselves.&rdquo; &mdash; <footer>Dale Carnegie</footer></blockquote>
+  <blockquote>&ldquo;When the root is strong, the fruit is sweet.&rdquo; &mdash; <footer>Bob Marley</footer></blockquote>
 </div>
   
