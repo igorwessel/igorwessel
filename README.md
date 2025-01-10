@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Euripides" title="Euripides - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Euripide_%28cropped%29.jpg/640px-Euripide_%28cropped%29.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/James_Allen_(author)" title="James Allen (author) - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/James_Allen.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Cleverness is not wisdom.&rdquo; &mdash; <footer>Euripides</footer></blockquote>
+  <blockquote>&ldquo;A person is only by the thoughts that he chooses.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 </div>
   
