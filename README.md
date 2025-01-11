@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/James_Allen_(author)" title="James Allen (author) - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/James_Allen.jpg" width="600px"></a>
+  <a href="undefined" title="undefined"><img src="undefined" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;A person is only by the thoughts that he chooses.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
+  <blockquote>&ldquo;Success is the progressive realization of a worthy goal or ideal.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 </div>
   
