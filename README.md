@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Joshua_Waitzkin" title="Joshua Waitzkin - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Joshua_Waitzkin.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Unknown_(2011_film)" title="Unknown (2011 film) - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/en/8/84/Unknown_Poster.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.&rdquo; &mdash; <footer>Josh Waitzkin</footer></blockquote>
+  <blockquote>&ldquo;The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 </div>
   
