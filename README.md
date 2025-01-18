@@ -6,6 +6,6 @@
   <a href="undefined" title="undefined"><img src="undefined" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+  <blockquote>&ldquo;The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
 </div>
   
