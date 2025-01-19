@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="undefined" title="undefined"><img src="undefined" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Pema_Ch%C3%B6dr%C3%B6n" title="Pema Chödrön - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Pema_chodron_2007_cropped.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
+  <blockquote>&ldquo;Nothing ever goes away until it has taught us what we need to know.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
 </div>
   
