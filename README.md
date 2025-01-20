@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Pema_Ch%C3%B6dr%C3%B6n" title="Pema Chödrön - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Pema_chodron_2007_cropped.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Paramahansa_Yogananda" title="Paramahansa Yogananda - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Paramahansa_Yogananda_Standard_Pose.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Nothing ever goes away until it has taught us what we need to know.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
+  <blockquote>&ldquo;Change yourself and you have done your part in changing the world.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
 </div>
   
