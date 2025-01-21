@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Paramahansa_Yogananda" title="Paramahansa Yogananda - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Paramahansa_Yogananda_Standard_Pose.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/A._A._Milne" title="A. A. Milne - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Milne-Shadowland-1922.jpg/220px-Milne-Shadowland-1922.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Change yourself and you have done your part in changing the world.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
+  <blockquote>&ldquo;One of the advantages of being disorganized is that one is always having surprising discoveries.&rdquo; &mdash; <footer>A.A. Milne</footer></blockquote>
 </div>
   
