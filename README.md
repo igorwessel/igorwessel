@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/A._A._Milne" title="A. A. Milne - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Milne-Shadowland-1922.jpg/220px-Milne-Shadowland-1922.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Colin_Powell" title="Colin Powell - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Colin_Powell_official_Secretary_of_State_photo.jpg/800px-Colin_Powell_official_Secretary_of_State_photo.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;One of the advantages of being disorganized is that one is always having surprising discoveries.&rdquo; &mdash; <footer>A.A. Milne</footer></blockquote>
+  <blockquote>&ldquo;Leadership is solving problems&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
 </div>
   
