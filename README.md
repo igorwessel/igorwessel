@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Les_Brown_(politician)" title="Les Brown (politician) - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Les_Brown_speaking.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/James_Allen_(author)" title="James Allen (author) - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/James_Allen.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Life has no limitations except the ones you make.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+  <blockquote>&ldquo;You are today where your thoughts have brought you.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 </div>
   
