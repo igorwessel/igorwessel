@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Jim_Rohn" title="Jim Rohn - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Jim_rohn.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Jiddu_Krishnamurti" title="Jiddu Krishnamurti - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Jiddu_Krishnamurti_01.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Formal education will make you a living, self-education will make you a fortune.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+  <blockquote>&ldquo;The idea of ourselves is our escape from the fact of what we really are.&rdquo; &mdash; <footer>Jiddu Krishnamurti</footer></blockquote>
 </div>
   
