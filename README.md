@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Jiddu_Krishnamurti" title="Jiddu Krishnamurti - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Jiddu_Krishnamurti_01.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Naval_Ravikant" title="Naval Ravikant - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Naval_Ravikant_%28cropped%29.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;The idea of ourselves is our escape from the fact of what we really are.&rdquo; &mdash; <footer>Jiddu Krishnamurti</footer></blockquote>
+  <blockquote>&ldquo;Study logic and math, because once you've mastered them, you won't fear any book.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 </div>
   
