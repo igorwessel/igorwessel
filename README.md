@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Kahlil_Gibran" title="Kahlil Gibran - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Kahlil_Gibran_1913.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Michael_Jordan" title="Michael Jordan - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Michael_Jordan_in_2014.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;Life without love is like a tree without blossoms or fruit.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
+  <blockquote>&ldquo;Some people want it to happen, some wish it would happen, others make it happen.&rdquo; &mdash; <footer>Michael Jordan</footer></blockquote>
 </div>
   
