@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Henry_Ward_Beecher" title="Henry Ward Beecher - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Henry_Ward_Beecher_-_Brady-Handy.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Joan_Rivers" title="Joan Rivers - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Joan_Rivers_1966_Press_photo.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
+  <blockquote>&ldquo;I have no methods; all I do is accept people as they are.&rdquo; &mdash; <footer>Joan Rivers</footer></blockquote>
 </div>
   
