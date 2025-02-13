@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Zig_Ziglar" title="Zig Ziglar - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Zig_Ziglar_at_Get_Motivated_Seminar%2C_Cow_Palace_2009-3-24_3.JPG" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/Judy_Garland" title="Judy Garland - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Judy_Garland_publicity_photo.png" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;If you aim at nothing, you will hit it every time.  &rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+  <blockquote>&ldquo;If you have to be in a soap opera try not to be cast in the worst role.&rdquo; &mdash; <footer>Judy Garland</footer></blockquote>
 </div>
   
