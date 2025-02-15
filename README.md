@@ -3,9 +3,9 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/Aristotle" title="Aristotle - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/800px-Aristotle_Altemps_Inv8575.jpg" width="600px"></a>
+  <a href="https://en.wikipedia.org/wiki/G._K._Chesterton" title="G. K. Chesterton - Wikipedia"><img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Gilbert_Chesterton.jpg" width="600px"></a>
   <br>
   <br>
-  <blockquote>&ldquo;To perceive is to suffer.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+  <blockquote>&ldquo;Fallacies do not cease to be fallacies because they become fashions.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
 </div>
   
