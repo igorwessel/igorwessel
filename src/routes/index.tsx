@@ -2,9 +2,17 @@ import { createFileRoute, Link } from "@tanstack/react-router";
 import { allPosts } from "content-collections";
 
 import { Terminal } from "@/components/terminal";
+import { seo } from "@/lib/seo";
 
 export const Route = createFileRoute("/")({
 	component: App,
+	head: () => ({
+		meta: [
+			...seo({
+				title: "Home | Igor Wessel",
+			}),
+		],
+	}),
 });
 
 function App() {
