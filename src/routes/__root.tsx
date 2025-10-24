@@ -6,7 +6,8 @@ import {
 	Scripts,
 } from "@tanstack/react-router";
 import { TanStackRouterDevtoolsPanel } from "@tanstack/react-router-devtools";
-
+import Footer from "@/components/footer";
+import Header from "@/components/header";
 import TanStackQueryDevtools from "../integrations/tanstack-query/devtools";
 import appCss from "../styles.css?url";
 
@@ -58,8 +59,10 @@ function RootDocument({ children }: { children: React.ReactNode }) {
 			<head>
 				<HeadContent />
 			</head>
-			<body>
-				{children}
+			<body className="min-h-screen bg-background p-4 md:p-8 dark">
+				<Header />
+				<main>{children}</main>
+				<Footer />
 				<TanStackDevtools
 					config={{
 						position: "bottom-right",
