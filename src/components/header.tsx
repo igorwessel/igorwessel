@@ -3,7 +3,6 @@
 import {
 	useLoaderData,
 	useLocation,
-	useMatch,
 	useMatches,
 	useParams,
 } from "@tanstack/react-router";
@@ -15,8 +14,8 @@ import { Button } from "./ui/button";
 export default function Header() {
 	const location = useLocation();
 	const match = useMatches();
-	const isDirectory = useLoaderData({ from: match[1].routeId });
-	const params = useParams({ from: match[1].routeId });
+	const isDirectory = useLoaderData({ from: match[1]?.routeId });
+	const params = useParams({ from: match[1]?.routeId });
 
 	const argument =
 		"id" in params
