@@ -1,10 +1,30 @@
 "use client";
 
+import {
+	useLoaderData,
+	useLocation,
+	useMatch,
+	useMatches,
+	useParams,
+} from "@tanstack/react-router";
 import { Moon, Sun } from "lucide-react";
 import { useState } from "react";
+import { Command } from "./command";
 import { Button } from "./ui/button";
 
 export default function Header() {
+	const location = useLocation();
+	const match = useMatches();
+	const isDirectory = useLoaderData({ from: match[1].routeId });
+	const params = useParams({ from: match[1].routeId });
+
+	const argument =
+		"id" in params
+			? `${params.id}.md`
+			: location.pathname === "/"
+				? "welcome.md"
+				: location.pathname.slice(1) + (!isDirectory ? ".md" : "");
+
 	const [theme, setTheme] = useState<"light" | "dark">("light");
 
 	return (
@@ -13,8 +33,12 @@ export default function Header() {
 				<span className="text-muted-foreground">igorwessel@blog</span>
 				<span className="text-muted-foreground">~</span>
 				<span className="text-muted-foreground">[🇧🇷]</span>
-				<span className="text-primary">$</span>
-				<span className="text-foreground">cat </span>
+
+				<Command
+					prefix={false}
+					command={!isDirectory ? "cat" : "ls -la"}
+					args={argument}
+				/>
 			</div>
 
 			<Button
