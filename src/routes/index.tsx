@@ -19,7 +19,9 @@ function App() {
 	return (
 		<div className="">
 			<div className="mx-auto flex flex-col">
-				<Terminal />
+				<h1 className="text-2xl md:text-3xl font-bold text-foreground mb-2">
+					{">"} Igor Wessel
+				</h1>
 
 				<div className="mt-8 pl-4 border-l-2 border-border space-y-6">
 					<section>
@@ -64,19 +66,29 @@ function App() {
 						</h2>
 						<ul className="space-y-2 text-sm">
 							{allPosts.map((post) => (
-								<li
-									key={post._meta.filePath}
-									className="flex items-center gap-2 hover:text-primary transition-colors cursor-pointer"
-								>
-									<span className="text-muted-foreground">-rw-r--r--</span>
-									<span className="text-muted-foreground">2025-01-15</span>
-									<Link
-										to="/posts/$id"
-										params={{ id: post._meta.filePath }}
-										className="text-foreground"
-									>
-										{post._meta.filePath}
-									</Link>
+								<li key={post._meta.filePath} className="space-y-1">
+									<div className="flex items-center gap-2 hover:text-primary transition-colors cursor-pointer">
+										<span className="text-muted-foreground">-rw-r--r--</span>
+										<span className="text-muted-foreground">2025-01-15</span>
+										<Link
+											to="/posts/$id"
+											params={{ id: post._meta.filePath }}
+											className="text-foreground"
+										>
+											{post._meta.filePath}
+										</Link>
+									</div>
+									<div className="flex gap-2 pl-24">
+										<span className="text-xs text-muted-foreground">
+											#typescript
+										</span>
+										<span className="text-xs text-muted-foreground">
+											#frontend
+										</span>
+										<span className="text-xs text-muted-foreground">
+											#patterns
+										</span>
+									</div>
 								</li>
 							))}
 						</ul>
