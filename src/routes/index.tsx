@@ -1,7 +1,6 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { allPosts } from "content-collections";
 
-import { Terminal } from "@/components/terminal";
 import { seo } from "@/lib/seo";
 
 export const Route = createFileRoute("/")({
@@ -72,23 +71,24 @@ function App() {
 										<span className="text-muted-foreground">2025-01-15</span>
 										<Link
 											to="/posts/$id"
-											params={{ id: post._meta.filePath }}
+											params={{ id: post._meta.path }}
 											className="text-foreground"
 										>
 											{post._meta.filePath}
 										</Link>
 									</div>
-									<div className="flex gap-2 pl-24">
-										<span className="text-xs text-muted-foreground">
-											#typescript
-										</span>
-										<span className="text-xs text-muted-foreground">
-											#frontend
-										</span>
-										<span className="text-xs text-muted-foreground">
-											#patterns
-										</span>
-									</div>
+									{post.tags.length && (
+										<div className="flex gap-2 pl-24">
+											{post.tags.map((tag) => (
+												<span
+													key={tag}
+													className="text-xs text-muted-foreground"
+												>
+													#{tag}
+												</span>
+											))}
+										</div>
+									)}
 								</li>
 							))}
 						</ul>

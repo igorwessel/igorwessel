@@ -1,9 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
-import { allPosts } from "content-collections";
 import { seo } from "@/lib/seo";
 
 export const Route = createFileRoute("/posts/")({
-	loader: () => ({ allPosts }),
 	component: Posts,
 	head: () => ({
 		meta: [
@@ -13,6 +11,9 @@ export const Route = createFileRoute("/posts/")({
 			}),
 		],
 	}),
+	staticData: {
+		isDirectory: true,
+	},
 });
 
 function Posts() {

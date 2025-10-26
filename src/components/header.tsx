@@ -1,11 +1,6 @@
 "use client";
 
-import {
-	useLoaderData,
-	useLocation,
-	useMatches,
-	useParams,
-} from "@tanstack/react-router";
+import { useLocation, useMatches } from "@tanstack/react-router";
 import { Moon, Sun } from "lucide-react";
 import { useState } from "react";
 import { Command } from "./command";
@@ -13,16 +8,15 @@ import { Button } from "./ui/button";
 
 export default function Header() {
 	const location = useLocation();
-	const match = useMatches();
-	const isDirectory = useLoaderData({ from: match[1]?.routeId });
-	const params = useParams({ from: match[1]?.routeId });
+	const matches = useMatches();
+	const currentRoute = matches[matches.length - 1];
+
+	const isDirectory = currentRoute.staticData?.isDirectory;
 
 	const argument =
-		"id" in params
-			? `${params.id}.md`
-			: location.pathname === "/"
-				? "welcome.md"
-				: location.pathname.slice(1) + (!isDirectory ? ".md" : "");
+		location.pathname === "/"
+			? "welcome.md"
+			: location.pathname.slice(1) + (!isDirectory ? ".md" : "");
 
 	const [theme, setTheme] = useState<"light" | "dark">("light");
 
