@@ -43,7 +43,7 @@ function RouteComponent() {
 					Prazer, sou Igor Wessel 👋
 				</h3>
 
-				<div className="space-y-4 text-base/leading-relaxed text-muted-foreground">
+				<div className="space-y-4 text-base/relaxed text-muted-foreground">
 					<p>
 						Sou desenvolvedor e trabalho principalmente na parte de frontend — o
 						famoso cara que "pinta botão" (mas, convenhamos, é bem mais do que
@@ -84,7 +84,7 @@ function RouteComponent() {
 
 			<section aria-labelledby="fun-facts-list" className="space-y-6">
 				<Title id="fun-facts-list">fun-facts --list</Title>
-				<ul className="space-y-3 text-base/leading-relaxed text-muted-foreground list-['-'] marker:text-primary ml-3 *:pl-3 ">
+				<ul className="space-y-3 text-base/relaxed text-muted-foreground list-['-'] marker:text-primary ml-3 *:pl-3 ">
 					<li>
 						<span>
 							🛹 Já andei de skate por uns bons 5 anos. Não fui algo insano, mas
@@ -131,12 +131,12 @@ function RouteComponent() {
 					>
 						Juntos Somos Mais — Abril 2022 ~ Presente
 					</h3>
-					<p className="text-base text-muted-foreground leading-relaxed mb-4">
+					<p className="text-base/relaxed text-muted-foreground mb-4">
 						Aqui foi onde pude realmente expandir meus horizontes como dev —
 						tive a chance de mergulhar em várias áreas, sair da zona de conforto
 						e lidar com coisas que eu nem imaginava no começo.
 					</p>
-					<ul className="space-y-3 text-sm/leading-relaxed text-muted-foreground list-['-'] marker:text-primary ml-3 *:pl-3">
+					<ul className="space-y-3 text-sm/relaxed text-muted-foreground list-['-'] marker:text-primary ml-3 *:pl-3">
 						<li>
 							<span>
 								<strong className="text-foreground">Vue 3:</strong> Nunca tinha
@@ -208,12 +208,12 @@ function RouteComponent() {
 					>
 						NineWorphi — Maio 2020 ~ Março 2022
 					</h3>
-					<p className="text-base/leading-relaxed text-muted-foreground mb-4">
+					<p className="text-base/relaxed text-muted-foreground mb-4">
 						Meu primeiro emprego como dev. Foi onde tudo começou — e onde
 						aprendi muito sobre o que significa, de fato, trabalhar em uma
 						equipe e entregar software de verdade.
 					</p>
-					<ul className="space-y-3 text-sm/leading-relaxed text-muted-foreground list-['-'] marker:text-primary ml-3 *:pl-3">
+					<ul className="space-y-3 text-sm/relaxed text-muted-foreground list-['-'] marker:text-primary ml-3 *:pl-3">
 						<li>
 							<span>
 								<strong className="text-foreground">SCRUM:</strong> Aprendi o
@@ -247,12 +247,12 @@ function RouteComponent() {
 					>
 						Open Source
 					</h3>
-					<p className="text-base/leading-relaxed text-muted-foreground mb-4">
+					<p className="text-base/relaxed text-muted-foreground mb-4">
 						Foi na Juntos Somos Mais onde tive meu primeiro contato com o mundo
 						open source — e, honestamente, onde entendi como contribuir de forma
 						efetiva para o mundo open source.
 					</p>
-					<ul className="space-y-3 text-sm/leading-relaxed text-muted-foreground list-['-'] marker:text-primary ml-3 *:pl-3">
+					<ul className="space-y-3 text-sm/relaxed text-muted-foreground list-['-'] marker:text-primary ml-3 *:pl-3">
 						<li>
 							<span>
 								<strong className="text-foreground">Bun:</strong> Durante a
