@@ -1,6 +1,6 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { allPosts } from "content-collections";
 
+import { posts } from "@/integrations/cms";
 import { seo } from "@/lib/seo";
 
 export const Route = createFileRoute("/")({
@@ -64,7 +64,7 @@ function App() {
 							{">"} Latest Posts
 						</h2>
 						<ul className="space-y-2 text-sm">
-							{allPosts.map((post) => (
+							{posts.getAll().map((post) => (
 								<li key={post._meta.filePath} className="space-y-1">
 									<div className="flex items-center gap-2 hover:text-primary transition-colors cursor-pointer">
 										<span className="text-muted-foreground">-rw-r--r--</span>
