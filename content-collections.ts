@@ -45,6 +45,7 @@ const posts = defineCollection({
 
     return {
       ...document,
+      _slug: document._meta.path,
       mdx,
     };
   },
