@@ -6,7 +6,7 @@ const links = [
 	},
 	{
 		title: "Twitter",
-		href: "https://twitter.com/igorwessel",
+		href: "https://twitter.com/igor_wessel",
 		label: "twitter.com/igorwessel",
 	},
 ];
@@ -25,7 +25,7 @@ export default function Footer() {
 						© 2025 Igor Wessel -{" "}
 						<a
 							href="https://github.com/igorwessel/igorwessel/blob/main/LICENCE"
-							className="hover:text-primary transition-colors"
+							className="hover:text-primary hover:underline transition-colors"
 						>
 							[terms.txt]
 						</a>
@@ -39,7 +39,7 @@ export default function Footer() {
 									title={link.title}
 									target="_blank"
 									rel="noopener noreferrer"
-									className="hover:text-primary transition-colors"
+									className="hover:text-primary hover:underline transition-colors"
 								>
 									{link.label}
 								</a>

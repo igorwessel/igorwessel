@@ -22,12 +22,13 @@ export default function Header() {
 		.filter((match) => match.routeId !== "/")
 		.map((match) => ({
 			...match,
+			isDirectory: match.staticData?.isDirectory,
 			crumb: match.fullPath === "/" ? "home" : match.pathname.split("/").at(-1),
 		}));
 
 	return (
-		<header className="flex justify-between items-center">
-			<div className="space-y-4 flex gap-2 text-sm">
+		<header className="flex justify-between items-center mb-8 pb-4 border-b border-border">
+			<div className="flex gap-2 text-sm">
 				{!isMobile && (
 					<span className="text-muted-foreground">igorwessel@blog</span>
 				)}
@@ -45,8 +46,8 @@ export default function Header() {
 									}}
 									className={cn(
 										currentRoute.index === idx
-											? "text-primary"
-											: "text-primary/80",
+											? "text-foreground cursor-default no-underline"
+											: "text-muted-foreground hover:text-foreground",
 										"underline-offset-4 hover:underline",
 									)}
 									from={match.fullPath}
@@ -58,7 +59,7 @@ export default function Header() {
 								</Link>
 
 								{idx + 1 < crumbs.length ? (
-									<div className="inline text-muted-foreground/70">/</div>
+									<span className="text-muted-foreground/50">/</span>
 								) : null}
 							</li>
 						))}
