@@ -1,7 +1,8 @@
-import { createFileRoute } from "@tanstack/react-router";
+import { createFileRoute, Link } from "@tanstack/react-router";
+import { posts } from "@/integrations/cms";
 import { seo } from "@/lib/seo";
 
-export const Route = createFileRoute("/posts/")({
+export const Route = createFileRoute("/posts")({
 	component: Posts,
 	head: () => ({
 		meta: [
@@ -19,7 +20,11 @@ export const Route = createFileRoute("/posts/")({
 function Posts() {
 	return (
 		<div>
-			<h1>Posts</h1>
+			{posts.getAll().map((post) => (
+				<Link to={post._slug} key={post._slug}>
+					{post.title}
+				</Link>
+			))}
 		</div>
 	);
 }

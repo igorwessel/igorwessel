@@ -1,37 +1,69 @@
 "use client";
 
-import { useLocation, useMatches } from "@tanstack/react-router";
+import { Link, useMatches } from "@tanstack/react-router";
 import { Moon, Sun } from "lucide-react";
 import { useState } from "react";
-import { Command } from "./command";
+import { useIsMobile } from "@/hooks/use-mobile";
+import { cn } from "@/lib/utils";
 import { Button } from "./ui/button";
 
 export default function Header() {
-	const location = useLocation();
 	const matches = useMatches();
+	const [theme, setTheme] = useState<"light" | "dark">("light");
+	const isMobile = useIsMobile();
+
 	const currentRoute = matches[matches.length - 1];
 
-	const isDirectory = currentRoute.staticData?.isDirectory;
+	const isDirectory =
+		"isDirectory" in currentRoute.staticData &&
+		currentRoute.staticData.isDirectory;
 
-	const argument =
-		location.pathname === "/"
-			? "welcome.md"
-			: location.pathname.slice(1) + (!isDirectory ? ".md" : "");
-
-	const [theme, setTheme] = useState<"light" | "dark">("light");
+	const crumbs = matches
+		.filter((match) => match.routeId !== "/")
+		.map((match) => ({
+			...match,
+			crumb: match.fullPath === "/" ? "home" : match.pathname.split("/").at(-1),
+		}));
 
 	return (
 		<header className="flex justify-between items-center">
 			<div className="space-y-4 flex gap-2 text-sm">
-				<span className="text-muted-foreground">igorwessel@blog</span>
-				<span className="text-muted-foreground">~</span>
-				<span className="text-muted-foreground">[🇧🇷]</span>
+				{!isMobile && (
+					<span className="text-muted-foreground">igorwessel@blog</span>
+				)}
+				<span className="text-primary">$</span>
+				<span className="text-muted-foreground">
+					{isDirectory ? "cd" : "cat"}
+				</span>
+				<nav aria-label="Main">
+					<ul className="*:inline">
+						{crumbs.map((match, idx) => (
+							<li key={match.fullPath}>
+								<Link
+									activeOptions={{
+										exact: true,
+									}}
+									className={cn(
+										currentRoute.index === idx
+											? "text-primary"
+											: "text-primary/80",
+										"underline-offset-4 hover:underline",
+									)}
+									from={match.fullPath}
+								>
+									{match.crumb}
+									{idx + 1 === crumbs.length && isDirectory === false
+										? ".mdx"
+										: null}
+								</Link>
 
-				<Command
-					prefix={false}
-					command={!isDirectory ? "cat" : "ls -la"}
-					args={argument}
-				/>
+								{idx + 1 < crumbs.length ? (
+									<div className="inline text-muted-foreground/70">/</div>
+								) : null}
+							</li>
+						))}
+					</ul>
+				</nav>
 			</div>
 
 			<Button
