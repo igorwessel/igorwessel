@@ -17,6 +17,7 @@ const posts = defineCollection({
     title: z.string(),
     summary: z.string(),
     tags: z.array(z.string()),
+    publishDate: z.string()
   }),
   transform: async (document, context) => {
     const mdx = await compileMDX(context, document, {
@@ -46,6 +47,7 @@ const posts = defineCollection({
     return {
       ...document,
       _slug: document._meta.path,
+      readTime: '1 min',
       mdx,
     };
   },
