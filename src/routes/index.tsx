@@ -22,7 +22,7 @@ function App() {
 					{">"} Igor Wessel
 				</h1>
 
-				<div className="mt-8 pl-4 border-l-2 border-border space-y-6">
+				<div className="mt-8 pl-4 border-responsive space-y-6">
 					<section>
 						<h2 className="text-2xl font-bold text-foreground mb-3">
 							{">"} Quick Links
@@ -67,7 +67,9 @@ function App() {
 							{posts.getAll().map((post) => (
 								<li key={post._meta.filePath} className="space-y-1">
 									<div className="flex items-center gap-2 hover:text-primary transition-colors cursor-pointer">
-										<span className="text-muted-foreground">-rw-r--r--</span>
+										<span className="hidden md:inline text-muted-foreground">
+											-rw-r--r--
+										</span>
 										<span className="text-muted-foreground">2025-01-15</span>
 										<Link
 											to="/posts/$id"
@@ -78,7 +80,7 @@ function App() {
 										</Link>
 									</div>
 									{post.tags.length && (
-										<div className="flex gap-2 pl-24">
+										<div className="space-x-2 md:pl-24">
 											{post.tags.map((tag) => (
 												<span
 													key={tag}
