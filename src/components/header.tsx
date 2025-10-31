@@ -12,19 +12,21 @@ export default function Header() {
 	const [theme, setTheme] = useState<"light" | "dark">("light");
 	const isMobile = useIsMobile();
 
-	const currentRoute = matches[matches.length - 1];
-
-	const isDirectory =
-		"isDirectory" in currentRoute.staticData &&
-		currentRoute.staticData.isDirectory;
-
 	const crumbs = matches
-		.filter((match) => match.routeId !== "/")
+		.filter(
+			(match) => match.routeId === "__root__" || !match.routeId.endsWith("/"),
+		)
 		.map((match) => ({
 			...match,
 			isDirectory: match.staticData?.isDirectory,
 			crumb: match.fullPath === "/" ? "home" : match.pathname.split("/").at(-1),
 		}));
+
+	const currentRoute = crumbs[crumbs.length - 1];
+
+	const isDirectory =
+		"isDirectory" in currentRoute.staticData &&
+		currentRoute.staticData.isDirectory;
 
 	return (
 		<header className="flex justify-between items-center mb-8 pb-4 border-b border-border">
