@@ -15,6 +15,7 @@ export const Route = createFileRoute("/posts/$id")({
 
 		return post;
 	},
+	notFoundComponent: () => <div>Post not found</div>,
 	component: RouteComponent,
 });
 
