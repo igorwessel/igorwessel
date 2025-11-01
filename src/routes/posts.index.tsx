@@ -27,34 +27,49 @@ export default function Posts() {
 		<div className="mt-4 space-y-1 border-responsive pl-4">
 			<section className="space-y-6">
 				{currentPosts.map((post) => (
-					<article
+					<Link
+						to="/posts/$id"
 						key={post._slug}
-						className="group py-2 hover:bg-muted/50 -mx-2 px-2 rounded transition-colors cursor-pointer"
+						params={{ id: post._slug }}
+						title={post.title}
 					>
-						<div className="flex items-baseline gap-3 text-sm flex-wrap">
-							<time className="text-muted-foreground/70 text-xs shrink-0 w-20">
-								{post.publishDate}
-							</time>
+						<article className="group py-2 hover:bg-muted/50 -mx-2 px-2 rounded transition-colors cursor-pointer">
+							<div className="flex items-baseline gap-3 text-sm md:text-base flex-wrap">
+								<time className="text-muted-foreground/70">
+									{post.publishDate}
+								</time>
 
-							<span className="text-muted-foreground/70 text-xs shrink-0 w-12">
-								{post.readTime}
-							</span>
-
-							<h3 className="text-foreground group-hover:text-primary transition-colors flex-1">
-								{post.title}
-								{/* <span className="text-muted-foreground/50 ml-1">.mdx</span> */}
-							</h3>
-						</div>
-
-						{/* Tags inline on hover */}
-						<div className="flex gap-2 mt-1 md:pl-36 transition-opacity">
-							{post.tags.map((tag) => (
-								<span key={tag} className="text-xs text-muted-foreground">
-									#{tag}
+								<span className="text-muted-foreground/70">
+									{post.readTime}
 								</span>
-							))}
-						</div>
-					</article>
+
+								<h2 className="text-foreground group-hover:text-primary transition-colors flex-1">
+									{post._meta.path}
+									<span className="text-muted-foreground/50 ml-1">
+										.{post._meta.extension}
+									</span>
+								</h2>
+							</div>
+
+							<div>
+								<p className="text-muted-foreground text-xs md:text-sm leading-relaxed">
+									<span># </span>
+									{post.summary}
+								</p>
+							</div>
+
+							<ul className="flex gap-2 transition-opacity">
+								{post.tags.map((tag, index) => (
+									<li key={tag} className="text-xs text-muted-foreground">
+										<span>
+											#{tag}
+											{index + 1 < post.tags.length ? "," : null}
+										</span>
+									</li>
+								))}
+							</ul>
+						</article>
+					</Link>
 				))}
 			</section>
 		</div>
