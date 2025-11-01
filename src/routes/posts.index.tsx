@@ -17,7 +17,6 @@ export const Route = createFileRoute("/posts/")({
 
 export default function Posts() {
 	const allPosts = posts.getAll();
-
 	return (
 		<section className="mt-4 space-y-6 border-responsive pl-4">
 			{allPosts.map((post) => (
@@ -25,8 +24,8 @@ export default function Posts() {
 					<article className="grid grid-cols-[auto_1fr_auto] gap-4 py-2 group hover:bg-accent/5 -mx-2 px-2 rounded-md transition-colors">
 						<div className="flex items-center gap-3 text-muted-foreground text-xs">
 							<span className="hidden md:inline">-rw-r--r--</span>
-							<time dateTime={post.publishDate}>
-								{new Date(post.publishDate).toLocaleDateString("pt-BR", {
+							<time dateTime={post.publishAt}>
+								{new Date(post.publishAt).toLocaleDateString("pt-BR", {
 									day: "2-digit",
 									month: "short",
 								})}

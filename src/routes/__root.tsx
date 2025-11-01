@@ -9,8 +9,8 @@ import { TanStackRouterDevtoolsPanel } from "@tanstack/react-router-devtools";
 import Footer from "@/components/footer";
 import Header from "@/components/header";
 import { Terminal } from "@/components/terminal";
-import appCss from "../global.css?url";
-import TanStackQueryDevtools from "../integrations/tanstack-query/devtools";
+import TanStackQueryDevtools from "@/integrations/tanstack-query/devtools";
+import appCss from "@/styles/global.css?url";
 
 interface MyRouterContext {
 	queryClient: QueryClient;
@@ -50,6 +50,7 @@ export const Route = createRootRouteWithContext<MyRouterContext>()({
 			},
 		],
 	}),
+	notFoundComponent: () => <div>Not found</div>,
 	shellComponent: RootDocument,
 });
 
