@@ -2,15 +2,15 @@
 
 import { Link, useMatches } from "@tanstack/react-router";
 import { Moon, Sun } from "lucide-react";
-import { useState } from "react";
 import { useIsMobile } from "@/hooks/use-mobile";
+import { useTheme } from "@/hooks/use-theme";
 import { cn } from "@/lib/utils";
 import { Button } from "./ui/button";
 
 export default function Header() {
 	const matches = useMatches();
-	const [theme, setTheme] = useState<"light" | "dark">("light");
 	const isMobile = useIsMobile();
+	const { setTheme, appTheme } = useTheme();
 
 	const crumbs = matches
 		.filter(
@@ -71,10 +71,11 @@ export default function Header() {
 
 			<Button
 				variant="ghost"
-				onClick={() => setTheme(theme === "light" ? "dark" : "light")}
+				onClick={() => setTheme(appTheme === "light" ? "dark" : "light")}
 				size="icon-lg"
 			>
-				{theme === "light" ? <Sun /> : <Moon />}
+				<Sun className="not-dark:hidden" />
+				<Moon className="dark:hidden" />
 			</Button>
 		</header>
 	);
