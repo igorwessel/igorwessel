@@ -17,61 +17,40 @@ export const Route = createFileRoute("/posts/")({
 
 export default function Posts() {
 	const allPosts = posts.getAll();
-	const currentPage = 1;
-	const totalPages = Math.ceil(allPosts.length / 10);
-	const startIndex = (currentPage - 1) * 10;
-	const endIndex = startIndex + 10;
-	const currentPosts = allPosts.slice(startIndex, endIndex);
 
 	return (
-		<div className="mt-4 space-y-1 border-responsive pl-4">
-			<section className="space-y-6">
-				{currentPosts.map((post) => (
-					<Link
-						to="/posts/$id"
-						key={post._slug}
-						params={{ id: post._slug }}
-						title={post.title}
-					>
-						<article className="group py-2 hover:bg-muted/50 -mx-2 px-2 rounded transition-colors cursor-pointer">
-							<div className="flex items-baseline gap-3 text-sm md:text-base flex-wrap">
-								<time className="text-muted-foreground/70">
-									{post.publishDate}
-								</time>
+		<section className="mt-4 space-y-6 border-responsive pl-4">
+			{allPosts.map((post) => (
+				<Link key={post._slug} to="/posts/$id" params={{ id: post._meta.path }}>
+					<article className="grid grid-cols-[auto_1fr_auto] gap-4 py-2 group hover:bg-accent/5 -mx-2 px-2 rounded-md transition-colors">
+						<div className="flex items-center gap-3 text-muted-foreground text-xs">
+							<span className="hidden md:inline">-rw-r--r--</span>
+							<time dateTime={post.publishDate}>
+								{new Date(post.publishDate).toLocaleDateString("pt-BR", {
+									day: "2-digit",
+									month: "short",
+								})}
+							</time>
+						</div>
 
-								<span className="text-muted-foreground/70">
-									{post.readTime}
-								</span>
+						<span className="text-foreground group-hover:text-primary transition-colors truncate">
+							{post._meta.filePath}
+						</span>
 
-								<h2 className="text-foreground group-hover:text-primary transition-colors flex-1">
-									{post._meta.path}
-									<span className="text-muted-foreground/50 ml-1">
-										.{post._meta.extension}
+						<div className="flex items-center gap-2 text-xs text-muted-foreground whitespace-nowrap">
+							<span>{post.readTime}</span>
+							{post.tags.length > 0 && (
+								<>
+									<span className="hidden md:inline">•</span>
+									<span className="hidden md:inline">
+										{post.tags[0] && `#${post.tags[0]}`}
 									</span>
-								</h2>
-							</div>
-
-							<div>
-								<p className="text-muted-foreground text-xs md:text-sm leading-relaxed">
-									<span># </span>
-									{post.summary}
-								</p>
-							</div>
-
-							<ul className="flex gap-2 transition-opacity">
-								{post.tags.map((tag, index) => (
-									<li key={tag} className="text-xs text-muted-foreground">
-										<span>
-											#{tag}
-											{index + 1 < post.tags.length ? "," : null}
-										</span>
-									</li>
-								))}
-							</ul>
-						</article>
-					</Link>
-				))}
-			</section>
-		</div>
+								</>
+							)}
+						</div>
+					</article>
+				</Link>
+			))}
+		</section>
 	);
 }

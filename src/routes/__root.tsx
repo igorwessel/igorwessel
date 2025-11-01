@@ -59,7 +59,7 @@ function RootDocument({ children }: { children: React.ReactNode }) {
 			<head>
 				<HeadContent />
 			</head>
-			<body className="min-h-screen bg-background p-4 md:p-8 dark">
+			<body className="min-h-screen max-w-4xl mx-auto bg-background p-4 md:p-8 dark">
 				<Header />
 				<main>{children}</main>
 				<Footer />
