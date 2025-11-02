@@ -1,16 +1,17 @@
-"use client";
-
 import { Link, useMatches } from "@tanstack/react-router";
-import { Moon, Sun } from "lucide-react";
+import { Moon, SquareTerminal, Sun } from "lucide-react";
+import { useGeekMode } from "@/hooks/use-geek-mode";
 import { useIsMobile } from "@/hooks/use-mobile";
 import { useTheme } from "@/hooks/use-theme";
 import { cn } from "@/lib/utils";
 import { Button } from "./ui/button";
+import { ButtonGroup } from "./ui/button-group";
 
 export default function Header() {
 	const matches = useMatches();
 	const isMobile = useIsMobile();
 	const { setTheme, appTheme } = useTheme();
+	const { updateGeekMode, geekMode } = useGeekMode();
 
 	const crumbs = matches
 		.filter(
@@ -69,14 +70,25 @@ export default function Header() {
 				</nav>
 			</div>
 
-			<Button
-				variant="ghost"
-				onClick={() => setTheme(appTheme === "light" ? "dark" : "light")}
-				size="icon-lg"
-			>
-				<Sun className="not-dark:hidden" />
-				<Moon className="dark:hidden" />
-			</Button>
+			<ButtonGroup>
+				<Button
+					variant="ghost"
+					onClick={() => updateGeekMode(!geekMode)}
+					size="icon-lg"
+					aria-label="Switch to geek mode"
+				>
+					<SquareTerminal />
+				</Button>
+				<Button
+					variant="ghost"
+					onClick={() => setTheme(appTheme === "light" ? "dark" : "light")}
+					size="icon-lg"
+					aria-label="Toggle theme"
+				>
+					<Sun className="not-dark:hidden" />
+					<Moon className="dark:hidden" />
+				</Button>
+			</ButtonGroup>
 		</header>
 	);
 }

@@ -7,9 +7,11 @@ import {
 } from "@tanstack/react-router";
 import { TanStackRouterDevtoolsPanel } from "@tanstack/react-router-devtools";
 import Footer from "@/components/footer";
+import { GeekModeProvider } from "@/components/geek-mode-provider";
 import Header from "@/components/header";
-import { Terminal } from "@/components/terminal";
+import { TerminalShell } from "@/components/terminal-shell";
 import { ThemeProvider } from "@/components/theme-provider";
+import { useGeekMode } from "@/hooks/use-geek-mode";
 import TanStackQueryDevtools from "@/integrations/tanstack-query/devtools";
 import appCss from "@/styles/global.css?url";
 
@@ -55,6 +57,22 @@ export const Route = createRootRouteWithContext<MyRouterContext>()({
 	shellComponent: RootDocument,
 });
 
+const RootShell = ({ children }: { children: React.ReactNode }) => {
+	const { geekMode } = useGeekMode();
+
+	if (geekMode) {
+		return <TerminalShell>{children}</TerminalShell>;
+	}
+
+	return (
+		<>
+			<Header />
+			<main>{children}</main>
+			<Footer />
+		</>
+	);
+};
+
 function RootDocument({ children }: { children: React.ReactNode }) {
 	return (
 		<html lang="en" suppressHydrationWarning>
@@ -63,22 +81,21 @@ function RootDocument({ children }: { children: React.ReactNode }) {
 			</head>
 			<body className="min-h-screen max-w-4xl mx-auto bg-background p-4 md:p-8">
 				<ThemeProvider>
-					<Header />
-					<main>{children}</main>
-					<Footer />
-					<Terminal />
-					<TanStackDevtools
-						config={{
-							position: "bottom-right",
-						}}
-						plugins={[
-							{
-								name: "Tanstack Router",
-								render: <TanStackRouterDevtoolsPanel />,
-							},
-							TanStackQueryDevtools,
-						]}
-					/>
+					<GeekModeProvider>
+						<RootShell>{children}</RootShell>
+						<TanStackDevtools
+							config={{
+								position: "bottom-right",
+							}}
+							plugins={[
+								{
+									name: "Tanstack Router",
+									render: <TanStackRouterDevtoolsPanel />,
+								},
+								TanStackQueryDevtools,
+							]}
+						/>
+					</GeekModeProvider>
 				</ThemeProvider>
 				<Scripts />
 			</body>
